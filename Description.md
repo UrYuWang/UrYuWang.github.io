@@ -1,8 +1,7 @@
 # UrYuWang.github.io
 This repository is for storing a project of using python and corresponding 
 packages to do an analysis of US's earthquakes from 1970 to 2014. The data
-is from a repository of BuzzFeed News. (https://raw.githubusercontent.com/
-BuzzFeedNews/2015-03-earthquake-maps/master/data/earthquake_states.csv) In
+is from a repository of BuzzFeed News. (https://raw.githubusercontent.com/BuzzFeedNews/2015-03-earthquake-maps/master/data/earthquake_states.csv) In
 the dataset, there are 40000 valid records (no missing values), and I use 
 them to do the analysis.
 
